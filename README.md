@@ -1,6 +1,8 @@
 # HTML & CSS Basics Summary
 
-## Screenshots <img src="images/page-screenshot.jpg" alt="screenshot da página">
+## Screenshots
+
+<img src="images/page-screenshot.jpg" alt="screenshot da página">
 
 ## Sobre:
 
